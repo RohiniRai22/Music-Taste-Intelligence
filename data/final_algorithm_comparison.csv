@@ -1,0 +1,4 @@
+Algorithm,Clusters,Noise Points,Noise Percentage,Silhouette Score
+K-Means,7,0,0.0,0.1904
+DBSCAN,2,456,4.56,0.5947
+Hierarchical,7,0,0.0,0.1351

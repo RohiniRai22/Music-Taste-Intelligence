@@ -1,0 +1,11 @@
+rank,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre,cluster,_row_index,distance
+1,7GNVoDE1qXtM8m51q5x9bS,Larry Gaaga;Flavour,Afropop 2022,Tene,0,230400,True,0.83,0.766,9,-3.386,1,0.0963,0.671,0.00681,0.154,0.932,94.995,4,dancehall,0,21509,0.6404327238584302
+2,6xaI8bHUculWM5vXRd2DI8,Jerry Rivera,Canto A Mi Idolo...Frankie Ruiz,Separemos Nuestras Vidas,30,230973,False,0.803,0.702,7,-5.154,1,0.0427,0.64,9.97e-06,0.0715,0.894,102.516,4,salsa,0,95073,0.6702724331293751
+3,0k1hbeZodoEw34FAdbh8xM,El Gran Combo De Puerto Rico,Aqui No Se Sienta Nadie!,Brujeria,65,205813,False,0.795,0.623,7,-5.375,1,0.0461,0.565,1.09e-05,0.062,0.96,93.03,4,salsa,0,94961,0.6770970535947274
+4,6DzTcRWP7CANKh7Vbd2mig,Santesh;Amos Paul,Yaaro,Yaaro,29,225333,False,0.801,0.673,7,-4.989,0,0.0657,0.569,0.0,0.101,0.789,90.008,4,malay,0,69618,0.7237617673691122
+5,0LUySo2gYFy9NJwo1Tb8tw,Jerry Rivera,Canto A Mi Idolo...Frankie Ruiz,Quiero Llenarte,35,267546,False,0.814,0.716,8,-4.769,1,0.0607,0.69,1.3e-05,0.0609,0.841,94.966,4,salsa,0,94719,0.7499271901745316
+6,1Y9ide34MVhxiz6af6y3Qn,Jerry Rivera,Canto A Mi Idolo...Frankie Ruiz,Para Darte Fuego,29,255746,False,0.809,0.651,0,-5.507,1,0.0431,0.685,0.0,0.141,0.922,102.466,4,salsa,0,95216,0.773966648042469
+7,3qF8DcoQpQ1IXlMbTKHylP,Timaya;Burna Boy,Chulo Vibes,Pull Up,53,196800,False,0.847,0.7,6,-5.571,1,0.0532,0.678,0.000129,0.0975,0.88,99.956,4,dancehall,0,21776,0.7794201049951625
+8,6F4k61BlMK01JUwwjFWKKw,Tony Dize;Ken-Y;Marioso,Queda poco para la PAES 2.0,Quizas - Remix,0,240200,False,0.787,0.679,9,-4.913,1,0.0658,0.416,0.0,0.15,0.876,89.996,4,latin,0,67140,0.7888267571582206
+9,5XRwsXxExAn3FVewv4W9mn,Tony Dize;Ken-Y;Marioso,Perreo Tenebroso Vol. 3,Quizas - Remix,0,240200,False,0.787,0.679,9,-4.913,1,0.0658,0.416,0.0,0.15,0.876,89.996,4,latin,0,67138,0.7888267571582206
+10,4GW2SIyvB5fy8xtK1eO8PS,Larry Gaaga;Wizkid,Low,Low,54,233012,False,0.762,0.587,9,-2.862,0,0.0751,0.62,0.00252,0.0844,0.772,101.964,4,dancehall,0,21768,0.7985233788669124
