@@ -1,0 +1,24 @@
+# 🎵 Music Taste Intelligence & Clustering System
+
+An interactive Machine Learning application that discovers similar music tracks using unsupervised learning and audio features.
+
+## 🚀 Live Application
+
+**[Click here to open Music Taste Intelligence](PASTE_YOUR_STREAMLIT_APP_URL_HERE)**
+
+## Technologies Used
+- Python
+- Streamlit
+- Pandas & NumPy
+- Scikit-learn
+- PCA
+- K-Means Clustering
+- DBSCAN
+- Hierarchical Clustering
+
+## Features
+- Music track discovery
+- Similar music recommendations
+- Interactive dashboard
+- Cluster analysis and visualization
+- Audio feature analysis
